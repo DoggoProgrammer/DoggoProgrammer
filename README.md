@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @DoggoProgrammer
+- 👀 I’m interested in lua programming
+- 🌱 I’m currently learning lua
