@@ -1,8 +1,0 @@
-errcodes:
-----------------
-
-1: err whilst downloading an app
-2: err whilst downloading an update
-3: err whlst downloading computer data
-4: unknown
-5: exploit/script detected (ban)
