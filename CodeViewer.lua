@@ -22,6 +22,7 @@ for v, i in pairs(Ls) do
         end
     end
 end
+wait(1)
 if rconsoleinput("Type 'Execute' to execute this Script Again.") == "Execute" then
-    loadstring(game:HttpGet(""))();
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/DoggoProgrammer/DoggoProgrammer/main/CodeViewer.lua"))();
 end
